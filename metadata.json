@@ -1,0 +1,6 @@
+{
+  "name": "আফিফা টেলিকম এন্ড ইলেকট্রনিক্স - বরগুনা",
+  "description": "আফিফা টেলিকম এন্ড ইলেকট্রনিক্স, বরগুনা - আধুনিক POS, বাল্ক IMEI ইনভেন্টরি, DSR ও ওয়ারেন্টি সার্ভিস ট্র্যাকিং সিস্টেম",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
